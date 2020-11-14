@@ -8454,16 +8454,16 @@ h1, h2, h3, h4, h5,
     background: -ms-linear-gradient(45deg, black 0%, white 100%);
     background: linear-gradient(45deg, black 0%, white 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#ffffff', GradientType=1 );
-    height: 720px; }
+    height: 620px; }
   .hero-wrap.hero-wrap-2 {
-    height: 600px !important;
+    height: 550px !important;
     position: relative; }
     .hero-wrap.hero-wrap-2 .overlay {
       width: 100%;
-      opacity: .1;
-      height: 600px; }
+      opacity: .9;
+      height: 550px; }
     .hero-wrap.hero-wrap-2 .slider-text {
-      height: 600px !important; }
+      height: 550px !important; }
       .hero-wrap.hero-wrap-2 .slider-text h1:after {
         display: none; }
 
