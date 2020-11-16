@@ -352,7 +352,7 @@ h6, .h6 {
 .shape-1 {
     position: absolute;
     top: 22%;
-    right: 58%;    
+    left: 3%;    
     -webkit-animation: movebounce 4s linear infinite;
     animation: movebounce 4s linear infinite;
 }
